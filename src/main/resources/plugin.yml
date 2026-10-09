@@ -1,0 +1,5 @@
+name: SpawnTeleport
+version: 1.0.0
+main: com.example.spawnteleport.SpawnTeleport
+api-version: "1.20"
+description: Teleports every player to the "spawn" world at 0.5, 97, 0.5 whenever they join.
